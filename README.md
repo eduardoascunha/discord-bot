@@ -18,6 +18,16 @@ Este segredo é enviado por mensagem privada.
 ### Comando *"!foto"*
 ![imagem](https://github.com/user-attachments/assets/4c84f5a6-ca08-42cc-bead-f3c8695a3c37)
 
-Autoria: Eduardo Cunha
+### Comando *"!help"*
+![imagem](https://github.com/user-attachments/assets/bdd2be49-d619-40a0-9d2b-a7d36939f44b)
 
-Ajuda: Youtube
+## Extras
+O bot ainda remove mensagens com contéudo ofensivo, avisando no chat:
+![imagem](https://github.com/user-attachments/assets/3d67b504-8e2e-4df2-815b-684fbf4f7c4e)
+
+Além disso atribui cargos com base em reações em mensagens.
+
+
+### Autoria: Eduardo Cunha
+
+### Ajuda: Youtube
