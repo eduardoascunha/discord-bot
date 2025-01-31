@@ -28,6 +28,7 @@ O bot ainda remove mensagens com contéudo ofensivo, avisando no chat:
 Além disso atribui cargos com base em reações em mensagens.
 
 
-### Autoria: Eduardo Cunha
+## Autoria 
+Eduardo Cunha
 
-### Ajuda: Youtube
+Fontes: Youtube
