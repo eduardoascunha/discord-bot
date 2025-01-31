@@ -23,9 +23,12 @@ Este segredo é enviado por mensagem privada.
 
 ## Extras
 O bot ainda remove mensagens com contéudo ofensivo, avisando no chat:
+
 ![imagem](https://github.com/user-attachments/assets/3d67b504-8e2e-4df2-815b-684fbf4f7c4e)
 
-Além disso atribui cargos com base em reações em mensagens.
+Além disso atribui cargos com base em reações em mensagens (relativamente mal implementado):
+
+![imagem](https://github.com/user-attachments/assets/b333bcd4-857d-4437-bdf7-fef69760dc53)
 
 
 ## Autoria 
