@@ -18,6 +18,6 @@ Este segredo é enviado por mensagem privada.
 ### Comando *"!foto"*
 ![imagem](https://github.com/user-attachments/assets/4c84f5a6-ca08-42cc-bead-f3c8695a3c37)
 
-Autoria: Eduardo Cunha\n
+Autoria: Eduardo Cunha
 
 Ajuda: Youtube
