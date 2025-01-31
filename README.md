@@ -11,11 +11,11 @@ Seguem exemplos de comandos implementados:
 ### Comando *"!segredo"*
 ![imagem](https://github.com/user-attachments/assets/4fac48ee-f77d-41aa-bca5-b3a058e1ee22)
 
-Este segredo é enviado por mensagem privada
+Este segredo é enviado por mensagem privada\n
 ![imagem](https://github.com/user-attachments/assets/6bd7ab5d-f7dd-4768-8c16-116f0d4624d0)
 
 ### Comando *"!foto"*
 ![imagem](https://github.com/user-attachments/assets/4c84f5a6-ca08-42cc-bead-f3c8695a3c37)
 
-Autoria: Eduardo Cunha
+Autoria: Eduardo Cunha\n
 Ajuda: Youtube
